@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SentenceGenerator.DataAccess.EFCore
+build_property.ProjectDir = C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.DataAccess.EFCore\

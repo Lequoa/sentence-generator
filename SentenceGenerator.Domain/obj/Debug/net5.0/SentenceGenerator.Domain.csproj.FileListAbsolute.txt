@@ -1,0 +1,11 @@
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\bin\Debug\net5.0\SentenceGenerator.Domain.deps.json
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\bin\Debug\net5.0\SentenceGenerator.Domain.dll
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\bin\Debug\net5.0\ref\SentenceGenerator.Domain.dll
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\bin\Debug\net5.0\SentenceGenerator.Domain.pdb
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\obj\Debug\net5.0\SentenceGenerator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\obj\Debug\net5.0\SentenceGenerator.Domain.AssemblyInfoInputs.cache
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\obj\Debug\net5.0\SentenceGenerator.Domain.AssemblyInfo.cs
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\obj\Debug\net5.0\SentenceGenerator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\obj\Debug\net5.0\SentenceGenerator.Domain.dll
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\obj\Debug\net5.0\ref\SentenceGenerator.Domain.dll
+C:\Users\walter.lequoa\Documents\Dev\SentenceGenerator.Domain\obj\Debug\net5.0\SentenceGenerator.Domain.pdb

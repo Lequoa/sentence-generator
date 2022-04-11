@@ -1,0 +1,25 @@
+<h1>Words</h1>
+
+<!-- List of Words category -->
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th style="width: 30%">Word</th>
+            <th style="width: 30%">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let word of words">
+            <td>{{word.word}}</td>
+            <td style="white-space: nowrap">
+                <a routerLink="select/{{word}}" class="btn btn-sm btn-primary mr-1">Select</a>
+            </td>
+        </tr>
+        <tr *ngIf="!users">
+            <td colspan="4" class="text-center">
+                <span class="spinner-border spinner-border-lg align-center"></span>
+            </td>
+        </tr>
+    </tbody>
+</table>
