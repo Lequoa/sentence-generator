@@ -4,7 +4,7 @@
 
 1. Install SQL Server developer edition as a default instance 2016+
 2. Node
-3. Install Microsoft.IdentitiyModel 
+
 
 ## Database
 
