@@ -18,4 +18,4 @@ The location of the database project is contained in the source folder: Softline
 *	Set the variables as follows
     * DatabaseName SentenceGeneratorDB
 * 	Click publish
-* 	Once completed you will have a working and seeded SageOne database. We create a demo company for you with working data.
+* 	Once completed you will have a working and seeded SentenceGeneratorDB database. We create a demo company for you with working data.
